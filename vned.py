@@ -756,7 +756,7 @@ def apix(ids,passlist):
                                         'x-fb-sim-hni':str(random.randint(2e4,4e4)),
                                         'x-fb-connection-type':'unknown',
                                         'Authorization':'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32',
-                                        'User-Agent': Mozilla/5.0 (Linux; Android 6.0.1; vivo 1606 Build/MMB29M;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4718.119 Mobile Safari/537.36 VivoBrowser/7.3.8.37"
+                                        'User-Agent': "Mozilla/5.0 (Linux; Android 6.0.1; vivo 1606 Build/MMB29M;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4718.119 Mobile Safari/537.36 VivoBrowser/7.3.8.37"
                                         'x-fb-sim-hni':str(random.randint(2e4,4e4)),
                                         'x-fb-connection-bandwidth':str(random.randint(2e7,3e7)),
                                         'x-fb-connection-quality':'EXCELLENT',
